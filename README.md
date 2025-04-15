@@ -76,3 +76,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jb-rown&show_icons=true&locale=en&layout=compact" alt="Jb-rown" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jb-rown" alt="Jb-rown" /></a></p>
 
+💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+💬 "Code like it's your superpower. Because it is." – John Brown
+
+Thanks for stopping by!
+
